@@ -1,0 +1,18 @@
+PING 50.23.131.208 (50.23.131.208) 56(84) bytes of data.
+64 bytes from 50.23.131.208: icmp_seq=1 ttl=119 time=19.8 ms
+
+--- 50.23.131.208 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.897/19.897/19.897/0.000 ms
+PING 50.23.131.208 (50.23.131.208) 56(84) bytes of data.
+64 bytes from 50.23.131.208: icmp_seq=1 ttl=119 time=19.6 ms
+
+--- 50.23.131.208 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.673/19.673/19.673/0.000 ms
+PING 50.23.131.208 (50.23.131.208) 56(84) bytes of data.
+64 bytes from 50.23.131.208: icmp_seq=1 ttl=119 time=19.6 ms
+
+--- 50.23.131.208 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.610/19.610/19.610/0.000 ms
